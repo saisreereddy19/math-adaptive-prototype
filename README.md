@@ -38,7 +38,7 @@ math-adaptive-prototype/
 
 ### 1. Clone Repository
 
-git clone https://github.com/<your-username>/math-adaptive-prototype.git
+git clone https://github.com/saisreereddy19/math-adaptive-prototype
 cd math-adaptive-prototype
 
 ### 2. Install Dependencies
