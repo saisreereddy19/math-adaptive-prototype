@@ -41,10 +41,20 @@ math-adaptive-prototype/
 git clone https://github.com/<your-username>/math-adaptive-prototype.git
 cd math-adaptive-prototype
 
-2. Install Dependencies
+### 2. Install Dependencies
 pip install -r requirements.txt
 
-3. Run the Prototype (Terminal version)
+### 3. Run the Prototype (Terminal version)
 python main.py
 
+### Adaptive Logic Summary
+
+A logistic-style adaptive model tracks a “skill score” (θ).
+Each correct answer increases θ, and incorrect decreases it slightly.
+Difficulty transitions happen when θ crosses thresholds:
+
+Probability Range	Difficulty
+< 0.4	Easy
+0.4 – 0.75	Medium
+> 0.75	Hard
 
