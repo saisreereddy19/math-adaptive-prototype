@@ -36,7 +36,7 @@ math-adaptive-prototype/
 ## ⚙️ Installation & Running
 
 ### 1. Clone Repository
-```bash
+
 git clone https:/saisreereddy19/github.com//math-adaptive-prototype.git
 cd math-adaptive-prototype
 
@@ -83,4 +83,4 @@ Probability Range	Difficulty
 > 0.75	Hard
 
 This makes progression gradual and keeps learners in their comfort-challenge balance.
-```bash
+
