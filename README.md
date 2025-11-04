@@ -37,7 +37,7 @@ math-adaptive-prototype/
 ## Installation & Running
 
 ### 1. Clone Repository
-```bash
+
 git clone https://github.com/<your-username>/math-adaptive-prototype.git
 cd math-adaptive-prototype
 
@@ -47,4 +47,4 @@ pip install -r requirements.txt
 3. Run the Prototype (Terminal version)
 python main.py
 
-'''bash
+
